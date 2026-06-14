@@ -12,7 +12,7 @@ const SKILLS = [
 
 const PROJECTS = [
   { n:"01", title:"Food Ordering E-Commerce",  tech:["React.js","JavaScript","Bootstrap","REST API"], desc:"Fully responsive food ordering website with cart management, search, filtering, and online ordering features.", live:"https://foodiie-hub.vercel.app/", gh:"https://github.com/mokkaradhika/foodiie-hub", c1:"#fb923c", c2:"#f43f5e" },
-  { n:"02", title:"Healthcare Hospital Management", tech:["React.js","Spring Boot","MySQL"], desc:"Comprehensive hospital management system for patient records, appointments, and healthcare service management.", live:"#", gh:"https://github.com/mokkaradhika/healthcare-management", c1:"#38bdf8", c2:"#818cf8" },
+  { n:"02", title:"Healthcare Hospital Management", tech:["React.js","Spring Boot","MySQL"], desc:"Comprehensive hospital management system for patient records, appointments, and healthcare service management.", live:"https://hospital-website-87lj.vercel.app/", gh:"https://github.com/mokkaradhika/healthcare-management", c1:"#38bdf8", c2:"#818cf8" },
   { n:"03", title:"Employee Management System", tech:["Spring Boot","MySQL","REST API","Hibernate"], desc:"Backend system with full CRUD operations, RESTful APIs, layered architecture, and Spring Data JPA integration.", live:"#", gh:"https://github.com/mokkaradhika/employee-management", c1:"#a78bfa", c2:"#ec4899" },
   { n:"04", title:"Cloud Security — Multi-Authority Keyword Search", tech:["Java","Cloud Security","Encryption"], desc:"Research project implementing secure keyword search over encrypted cloud data using multi-authority attribute-based encryption.", live:"#", gh:"https://github.com/mokkaradhika/cloud-security", c1:"#34d399", c2:"#06b6d4" },
 ];
